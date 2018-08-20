@@ -1,0 +1,9 @@
+
+1 - What happens when you initialize a repository? Why do you need to do it?
+     When i initialize a repository an occult carpet was created for save all
+    the changes and to identify this is a carpet using git.
+
+2 - How is the staging area different from the working directory and the 
+    repository? What value do you think it offers?
+     The staging area allows organize the content of your working directory and
+    made the commit of some files do you want.
