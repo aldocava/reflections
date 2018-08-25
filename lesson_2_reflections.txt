@@ -26,4 +26,8 @@
 6 - What is the result of merging two branches together? Why do we represent it
     in the diagram the way we do?
      The result is a code with new features or bugs fixes. IDK.
-	
+
+7 - What are the pros and cons of Git's automatic merging vs. always doing 
+    merges manually?
+     The pros is you don't have to check one per one file who has changed 
+    and the cons are maybe exist a conflict.
