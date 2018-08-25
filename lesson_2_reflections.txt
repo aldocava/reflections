@@ -7,3 +7,18 @@
     repository? What value do you think it offers?
      The staging area allows organize the content of your working directory and
     made the commit of some files do you want.
+
+3 - How can you use the staging area to make sure you have one commit per 
+    logical change?
+     Well, this is easy, making git add per change you can have one commit per
+    logical change.
+ 
+4 - What are some situations when branches would be helpful in keeping your 
+    history organized? How would branches help?
+     There are varios situations, when you need to implement a new feature or
+    make a big change and you don't want to break the functional code so you 
+    create a new branch and you try de new code.
+
+5 - How do the diagrams help you visualize the branch structure?
+     It's better if you have visual support to understand stuff like the 
+    branches.
