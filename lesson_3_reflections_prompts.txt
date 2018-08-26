@@ -14,3 +14,7 @@
 4 - What is the benefit of having a copy of the last known state of the remote 
     stored locally?
      To check if there is a new version.
+
+5 - How would you collaborate without using Git or GitHub? What would be easier,
+    and what would be harder?
+     With others platforms but won't be easy combibe the code.
